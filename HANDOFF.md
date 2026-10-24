@@ -91,6 +91,8 @@ tools/
   vendor/unluac.jar     Lua decompiler (gitignored)
 third_party/            lua-5.1.5 (lundump.c patched, see lundump-size_t.patch), stb,
                         libogg-1.3.6, libtheora-1.2.0; each has SOURCE.txt
+docs/api.md             API reference: all 87 sc* functions, unused ones marked
+docs/formats.md         file formats: .res, assets, scripts, scream.cfg, .srt, saves
 docs/api-usage-*.md     generated API usage tables
 extracted/ (gitignored) unpacked game data, decompiled scripts, Ghidra project and dumps
 ```
